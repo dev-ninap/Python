@@ -1,6 +1,7 @@
-pessoa = {"nome": "Ana Luiza", "idade":20, "cidade": "Barra mansa"}
-pessoa.update({"profissão": "Nutricionista"})
-print(pessoa["nome"], pessoa["profissão"])
+pessoa = {input("Qual é o seu nome?")}
+idade = {input("Insira sua idade")}
+cidade = {input("Cidade em que mora)}
 
-pessoa = {"nome": "Nina", "idade":20. "cidade": "Barra mansa"}
-pessoa.update
+                
+
+
